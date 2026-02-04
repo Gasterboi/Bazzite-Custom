@@ -1,4 +1,4 @@
-app/org.mozilla.firefox/x86_64/stable
+app/com.brave.Browser/x86_64/stable
 app/com.mattjakeman.ExtensionManager/x86_64/stable
 app/com.github.Matoking.protontricks/x86_64/stable
 app/com.ranfdev.DistroShelf/x86_64/stable
@@ -9,7 +9,6 @@ app/com.vysp3r.ProtonPlus/x86_64/stable
 app/org.gnome.Calculator/x86_64/stable
 app/org.gnome.Calendar/x86_64/stable
 app/org.gnome.Characters/x86_64/stable
-app/org.gnome.Contacts/x86_64/stable
 app/org.gnome.Papers/x86_64/stable
 app/org.gnome.Logs/x86_64/stable
 app/org.gnome.Loupe/x86_64/stable
@@ -22,6 +21,9 @@ app/org.gnome.font-viewer/x86_64/stable
 app/org.gnome.Showtime/x86_64/stable
 app/org.altlinux.Tuner/x86_64/stable
 app/com.github.Matoking.protontricks/x86_64/stable
+app/org.vinegarhq.Sober/x86_64/stable
+app/dev.vencord.Vesktop/x86_64/stable
+app/com.obsproject.Studio/x86_64/stable
 runtime/com.obsproject.Studio.Plugin.OBSVkCapture/x86_64/stable
 runtime/com.obsproject.Studio.Plugin.Gstreamer/x86_64/stable
 runtime/com.obsproject.Studio.Plugin.GStreamerVaapi/x86_64/stable
